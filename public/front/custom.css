@@ -1,0 +1,18 @@
+/* 
+    Document   : custom
+    Created on : 14 Jul, 2016, 6:24:40 PM
+    Author     : Rahul
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.flash{
+    background:#F6624A;
+    color:white;
+    width:200px;
+    position:absolute;
+    right:20px;
+    bottom:20px;
+    paddinge:1em;
+    display:none;
+}
